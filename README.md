@@ -1,16 +1,14 @@
-## Hi there 👋
+### hey, I'm void
 
-<!--
-**voidopcode/voidopcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Low-level developer. I like taking hardware apart in software: CPUs, GPUs, BIOSes, file formats.
 
-Here are some ideas to get you started:
+**Now building:** an original Xbox emulator (x86 CPU, NV2A GPU, kernel HLE).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Into:** emulation · reverse engineering · systems programming · graphics
+
+**Tools:** C++ · Rust · C · x86 asm · Vulkan / OpenGL · Ghidra · IDA
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=voidopcode&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidopcode&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
