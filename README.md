@@ -25,7 +25,7 @@ and its RDNA2 GPU code is recompiled to Direct3D 12 shaders.
 
 <br clear="left">
 
-**First target: GTA VI.** Not playable yet. Repo is private for now.
+**First target: GTA VI.** Not playable yet.
 
 | Stage | Status |
 |-------|--------|
