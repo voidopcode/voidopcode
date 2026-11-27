@@ -25,12 +25,7 @@ and its RDNA2 GPU code is recompiled to Direct3D 12 shaders.
 
 <br clear="left">
 
-<p>
-  <a href="https://github.com/voidopcode/vilocity"><img alt="Repository" src="https://img.shields.io/badge/repo-vilocity-7c5cff?style=flat-square&logo=github"></a>
-  <a href="https://github.com/voidopcode/vilocity/releases"><img alt="Downloads" src="https://img.shields.io/badge/downloads-pre--releases-1fb9d8?style=flat-square"></a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/voidopcode/vilocity?style=flat-square&color=2f80ed">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/voidopcode/vilocity?style=flat-square&color=3ddc84">
-</p>
+**[Repository](https://github.com/voidopcode/vilocity)** · **[Downloads](https://github.com/voidopcode/vilocity/releases)** · **[Credits](https://github.com/voidopcode/vilocity#credits)**
 
 **First target: GTA VI.** Not playable start to finish yet, but the open world runs.
 
