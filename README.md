@@ -17,7 +17,7 @@
 
 <img align="left" width="110" src="vilocity-logo.svg" alt="Vilocity logo">
 
-### Vilocity
+### [Vilocity](https://github.com/voidopcode/vilocity)
 
 Xbox Series X|S games running natively on Windows. No CPU emulation: the
 game's x64 code runs as-is, the console's system libraries are re-implemented,
@@ -25,17 +25,31 @@ and its RDNA2 GPU code is recompiled to Direct3D 12 shaders.
 
 <br clear="left">
 
-**First target: GTA VI.** Not playable yet.
+<p>
+  <a href="https://github.com/voidopcode/vilocity"><img alt="Repository" src="https://img.shields.io/badge/repo-vilocity-7c5cff?style=flat-square&logo=github"></a>
+  <a href="https://github.com/voidopcode/vilocity/releases"><img alt="Downloads" src="https://img.shields.io/badge/downloads-pre--releases-1fb9d8?style=flat-square"></a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/voidopcode/vilocity?style=flat-square&color=2f80ed">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/voidopcode/vilocity?style=flat-square&color=3ddc84">
+</p>
+
+**First target: GTA VI.** Not playable start to finish yet, but the open world runs.
 
 | Stage | Status |
 |-------|--------|
-| Boot, menus, intro video, saves | ✅ works, menus at 30 fps |
+| Boot, menus, intro video, saves | ✅ works |
 | Loading into the world | ✅ works |
-| The world renders | 🟡 0.6-4.9 fps |
-| The world keeps running | 🔴 GPU device lost 2-3 min in |
-| Playable at 30 fps | 🔴 not yet |
+| The world renders | 🟢 the saved game loads into the open world and plays |
+| The picture | 🟢 shade, faces, skin, water and sky look right |
+| Frame rate | 🟡 17-27 fps (target 30) |
+| The world keeps running | 🟡 a driver timeout some 7 minutes in remains |
+| Missions start to finish | 🔴 not yet |
 
-<sub>Measured on Windows 11 Pro · RTX 5080 · Ryzen 9 9950X3D · 64 GB</sub>
+<sub>Measured on Windows 11 Pro · RTX 5080 · Ryzen 9 9950X3D · 64 GB, as a Series S · live numbers in the
+<a href="https://github.com/voidopcode/vilocity#gta-vi-progress">project README</a></sub>
+
+<sub>Built on the work of <a href="https://github.com/Marvisak/VIctory">VIctory</a>, cool_fox and
+<a href="https://github.com/xcl-dev/xcl">XCL</a>, with fixes from many forks:
+<a href="https://github.com/voidopcode/vilocity#credits">full credits</a>.</sub>
 
 ---
 
