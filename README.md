@@ -15,7 +15,7 @@
 
 ---
 
-<img align="left" width="110" src="vilocity-logo.svg" alt="Vilocity logo">
+<a href="https://github.com/voidopcode/vilocity"><img src="https://raw.githubusercontent.com/voidopcode/vilocity/main/assets/discord-banner.png" alt="Vilocity: GTA VI on Windows, open source"></a>
 
 ### [Vilocity](https://github.com/voidopcode/vilocity)
 
@@ -23,9 +23,7 @@ Xbox Series X|S games running natively on Windows. No CPU emulation: the
 game's x64 code runs as-is, the console's system libraries are re-implemented,
 and its RDNA2 GPU code is recompiled to Direct3D 12 shaders.
 
-<br clear="left">
-
-**[Repository](https://github.com/voidopcode/vilocity)** · **[Downloads](https://github.com/voidopcode/vilocity/releases)** · **[Credits](https://github.com/voidopcode/vilocity#credits)**
+**[Repository](https://github.com/voidopcode/vilocity)** · **[Quick start](https://github.com/voidopcode/vilocity#quick-start-from-nothing-to-gta-vi)** · **[Discord](https://discord.gg/PzxCF9UDP)** · **[Credits](https://github.com/voidopcode/vilocity#credits)**
 
 **First target: GTA VI.** Not playable start to finish yet, but the open world runs.
 
@@ -35,8 +33,9 @@ and its RDNA2 GPU code is recompiled to Direct3D 12 shaders.
 | Loading into the world | ✅ works |
 | The world renders | 🟢 the saved game loads into the open world and plays |
 | The picture | 🟢 shade, faces, skin, water and sky look right |
-| Frame rate | 🟡 17-27 fps (target 30) |
-| The world keeps running | 🟡 a driver timeout some 7 minutes in remains |
+| DLSS (NVIDIA RTX) | ✅ works, with in-game settings on F1 |
+| The world keeps running | 🟢 12 minutes in the open world without a crash |
+| Frame rate | 🟡 25-33 fps (target 30) |
 | Missions start to finish | 🔴 not yet |
 
 <sub>Measured on Windows 11 Pro · RTX 5080 · Ryzen 9 9950X3D · 64 GB, as a Series S · live numbers in the
